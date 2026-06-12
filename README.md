@@ -88,7 +88,7 @@ Generated samples improve dramatically across epochs:
   <b>Epoch 5</b> — Recognizable face-like patterns with reasonable symmetry
 </p>
 
-> *Note: 5 epochs is a fraction of what SOTA GANs require. Extended training (50–200 epochs) yields significantly sharper results.*
+> *Note: 5 epochs is a fraction of what SOTA GANs require. Extended training (50–200 epochs) yields significantly sharper results. Make sure to visit the codes cell output to see the result of each epoch *
 
 ---
 
